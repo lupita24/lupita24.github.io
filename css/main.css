@@ -35,7 +35,7 @@ body {
 }
 
 #header .navbar-nav li > a:hover, #header .navbar-nav li > a:focus {
-  -webkit-transition: background 0.5s;
+  -webkit-transition: background 0.x5s;
   transition: background 0.5s;
   background-color: #3A0404;
   color: #fff; 
@@ -57,7 +57,9 @@ body {
 }
 #header .navbar-collapse {
   border-color: #363033;
-  margin-top: 7px; }
+  margin-top: 7px; 
+}
+
 #header .navbar-brand {
   padding: 0 15px; 
 }
@@ -115,6 +117,12 @@ body {
   border: 2px solid #E10F0F; 
 }
 
+#sobre_mi{
+   background: url(../images/fondo-sp.jpg) no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: color; 
+}
 #sobre_mi .container .text h1 {
   margin: 0 auto 30px; 
 }
