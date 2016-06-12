@@ -57,7 +57,7 @@ body {
     position: relative; }
     #home .banner .img-banner {
       width: 85%;
-      margin: 250px auto 250px; }
+      margin: 270px auto 270px; }
       @media screen and (min-width: 968px) {
         #home .banner .img-banner {
           width: 70%; } }
