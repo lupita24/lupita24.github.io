@@ -76,7 +76,7 @@ body {
 #home {
   background: url(../images/fondo-header.jpg) no-repeat;
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(1, -0, -1,-0.2);
   background-blend-mode: color; 
 }
 
@@ -120,11 +120,11 @@ body {
 #sobre_mi{
    background: url(../images/fondo-sp.jpg) no-repeat;
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.4)
   background-blend-mode: color; 
 }
 #sobre_mi .container .text h1 {
-  margin: 0 auto 30px; 
+  margin: 0 auto 10px;
 }
  
 @media screen and (max-width: 990px) {
@@ -187,11 +187,11 @@ body {
   position: relative; 
 }
 .text h1 {
-  font-size: 50px;
+  font-size: 30px;
   font-weight: 700;
   margin: 40px auto 40px;
   color: #DF0101;
-  font-style: normal;
+  font-style:oblique;
   font-family: "Raleway", sans-serif;
   text-align: center;
   text-transform: uppercase;
