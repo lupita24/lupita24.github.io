@@ -120,7 +120,6 @@ body {
 #sobre_mi{
    background: url(../images/fondo-sp.jpg) no-repeat;
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.4)
   background-blend-mode: color; 
 }
 #sobre_mi .container .text h1 {
@@ -145,7 +144,6 @@ body {
   font-style: normal;
   font-family: "Delius Swash Caps", cursive;
   text-align: center;
-  background-color: rgba(255, 230, 225, 0.6); 
 }
 
 #sobre_mi .container .row {
@@ -187,12 +185,12 @@ body {
   position: relative; 
 }
 .text h1 {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 700;
   margin: 40px auto 40px;
-  color: #DF0101;
+  color: #C51F1F;
   font-style:oblique;
-  font-family: "Raleway", sans-serif;
+  font-family:monospace;
   text-align: center;
   text-transform: uppercase;
   word-spacing: -0.15em; 
